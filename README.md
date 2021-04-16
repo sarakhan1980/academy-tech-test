@@ -1,5 +1,12 @@
 # Academy Tech Test
 
+## The Task
+
+You have been given a list of people who work at your company in quoted CSV format. Another member of your team has started work on a CSV parser to load the data from this file.  The goal is to produce a clean output of the CSV file, using the python application.
+You have been asked to finish the program by implementing the `__parse_row` method in `csvparser.py`.  Your only area of focus, should be the implemetation of the method.
+
+_Note_ : Please do not fork the repository.
+
 ## Prerequisites
 
 * Python 3
@@ -37,9 +44,3 @@ $ py app.py
 # MacOS/Unix
 $ python3 app.py
 ```
-
-## The Task
-
-You have been given a list of people who work at your company in quoted CSV format. Another member of your team has started work on a CSV parser to load the data from this file. You have been asked to finish the program by implementing the `__parse_row` method in `csvparser.py`.
-
-_Note_ : Please do not fork the repository.
