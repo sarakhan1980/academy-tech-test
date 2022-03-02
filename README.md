@@ -5,7 +5,7 @@
 Your team has been given a list of people who work at your company in quoted CSV format, with a requirement to produce a clean output of the CSV file using a Python application _(See below)_.  
 Another member of your team has started work on a CSV parser to load the data from this file.  You have been asked to finish the program by implementing the `__parse_row` method in `csvparser.py`.
 
-_Your only area of focus should be the implemetation of the method._
+_Your only area of focus should be the implementation of the method._
   
 CSV:
 ```
